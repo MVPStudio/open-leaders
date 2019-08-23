@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Open Project Template
+about: each project lets a template to follow in the process
 title: ''
 labels: ''
 assignees: ''
