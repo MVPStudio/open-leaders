@@ -45,4 +45,4 @@ Before Week 4 (Oct 14): Cohort Call (Build for Understanding)
 - [ ] [Pick an open license](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/) for the work you're doing during the program.
 - [ ] Use your canvas to [start writing a README](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), or landing page, for your project. Link to your README in a comment on this issue.
 
-This issue is here to help you keep track of work during the first month of the program. Please refer to the [OL6 Syllabus](https://mzl.la/ol6-syllabus) for more detailed weekly notes and assignments past week 4.
+This issue is here to help you keep track of work during the first month of the program. Please refer to the [OL2 Syllabus](https://docs.google.com/document/d/1Mij_xDFbUttktuRlFJ4xsBUg4EQkkNnEyho3YNhmKKo/edit?usp=sharing) for more detailed weekly notes and assignments past week 4.
